@@ -12,6 +12,12 @@ The goal of this project is to analyze NYC restaurant inspection records to:
 - Determine what factors lead to poor inspection results
 - Provide insights that support better decisions for restaurant owners, city agencies, and consumers.
 
+## Dataset
+
+https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data
+NYC OPEN DATA DOHMH New York City Restaurant Inspection Results Dataset
+293K Rows 27 Columns
+
 ## 🔍 What This Project Answers
 
 This project addresses the following key questions:
